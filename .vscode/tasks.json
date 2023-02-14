@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "command": "make ci-test",
+      "label": "ci-test",
+      "detail": "run CI test"
+    }
+  ]
+}
