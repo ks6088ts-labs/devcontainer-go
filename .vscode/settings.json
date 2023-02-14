@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#AFDFE4",
+    "titleBar.activeForeground": "#000000"
+  },
+  "editor.formatOnSave": true,
+  "go.useLanguageServer": true,
+}
